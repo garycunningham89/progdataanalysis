@@ -10,7 +10,26 @@
 # 4. Explain the use of seeds in generating pseudorandom numbers.
 # To complete assignment the following base plan was created.
 # a) Learn how to create a jupyter notebook and detail steps.
-# b) Create the notebook.
+# b) Create the notebook and add to git repository.
 # c) Expand on previous learnings of Python including the newer lecture content concerning the numpy.random package.
 # d) Use new learnings and the jupyter notebook to complete the four tasks above.
 # e) Complete Assignment to a suitable standard as per requirements outlined in the assignment sheet within the repository. 
+
+# Step Description
+# a)  Learn how to create a jupyter notebook and detail steps.
+#  (i) Jupyter - "a loose acronym meaning Julia, Python, and R" (Datacamp, 2019) - The base languages jupyter was created to include but it now includes various other languages, including Python.
+# (ii) Notebook - jupyter notebook versions allow the inclusion of code, graphs, figures, etc. in a single document repository and Datacamp (2019) state these document holdings "are the ideal place to bring together an analysis description, and its results, as well as, they can be executed perform the data analysis in real time".
+# (iii) The Jupyter Notebook App - allows running the program on a web browser with the kernel and dashboard the primary components. The kernel deals with the code inputted by the user. The dashboard shows the high level of this access and allows creation or editing of notebooks and managing of kernels on the system you are using.
+# How To Install Jupyter: - Using Anaconda to include the Python prerequisite requirement as highly recommended in class content and by Jupyter Documentation (2019). 
+# Anaconda was previously installed but the following installation steps adapted by Jupyter Documentation (2019) should be followed.
+# 1. Download Anaconda. It should include Anaconda’s latest Python 3 version (currently Python 3.7).
+# 2. Follow the instructions on the download page. 
+# 3. Complete the installation of Anaconda.
+# 4. Open Command Line. (Cmder in this instance).
+# 5. To run the notebook on the command prompt type: >>>> jupyter notebook
+
+
+
+# Reference List
+# Jupyter Documentation (2019) Installing Jupyter Notebook. Accessed online at: https://jupyter.readthedocs.io/en/latest/install.html
+# DataCamp (2019) Tutorial on Jupyter Notebook Creation. Accessed online at: https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook?utm_source=adwords_ppc&utm_campaignid=898687156&utm_adgroupid=48947256715&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=1t1&utm_creative=332602034352&utm_targetid=dsa-473406581035&utm_loc_interest_ms=&utm_loc_physical_ms=20474&gclid=EAIaIQobChMIm_T_iu_S5QIVxLHtCh115QCvEAAYASAAEgKNHfD_BwE
