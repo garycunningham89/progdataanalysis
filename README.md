@@ -31,7 +31,7 @@
 
 
 # Reference List
-# Class Content, Background Reading and Python Learning Tutorials were prelimary references supplemented by the following list of references;
+# Class Content, Background Reading and Python Learning Tutorials were preliminary references supplemented by the following list of references;
 
 # Python Software Foundation. Accessed online at: https://www.python.org/
 # w3Schools.com Tutorials. Accessed online at: https://www.w3schools.com
@@ -45,3 +45,5 @@
 # Numpy.org (2019) Random Sampling (numpy.random). Accessed online at: https://numpy.org/doc/1.17/reference/random/index.html
 # Jupyter Documentation (2019) Installing Jupyter Notebook. Accessed online at: https://jupyter.readthedocs.io/en/latest/install.html
 # DataCamp (2019) Tutorial on Jupyter Notebook Creation. Accessed online at: https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook?utm_source=adwords_ppc&utm_campaignid=898687156&utm_adgroupid=48947256715&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=1t1&utm_creative=332602034352&utm_targetid=dsa-473406581035&utm_loc_interest_ms=&utm_loc_physical_ms=20474&gclid=EAIaIQobChMIm_T_iu_S5QIVxLHtCh115QCvEAAYASAAEgKNHfD_BwE
+# Brownlee, J. (2018) How to Generate Random Numbers in Python. Machine Learning Mastery. Accessed online at: https://machinelearningmastery.com/how-to-generate-random-numbers-in-python/
+# Geeks for Geeks (2019) Random sampling in numpy | random_sample() function. Accessed online at: https://www.geeksforgeeks.org/random-sampling-in-numpy-random_sample-function/amp/
