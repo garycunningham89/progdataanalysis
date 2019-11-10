@@ -11,8 +11,8 @@
 # To complete assignment the following base plan was created.
 # a) Learn how to create a jupyter notebook and detail steps.
 # b) Create the notebook and add to git repository.
-# c) Expand on previous learnings of Python including the newer lecture content concerning the numpy.random package.
-# d) Use new learnings and the jupyter notebook to complete the four tasks above.
+# c) Expand on previous learnings of Python including the newer lecture content concerning on NumPy and the numpy.random package.
+# d) Use new learnings and the Jupyter notebook to complete the four tasks above.
 # e) Complete Assignment to a suitable standard as per requirements outlined in the assignment sheet within the repository. 
 
 # Step Description
@@ -42,8 +42,12 @@
 # Investopedia (2019) Simple Random Sample. Accessed online at: https://www.investopedia.com/terms/s/simple-random-sample.asp 
 # SciPy.org (2019) Random Sampling (numpy.random). Accessed online at: https://docs.scipy.org/doc/numpy-1.14.0/reference/routines.random.html
 # SciPy.org (2019) numpy.random.permutation. Accessed online at: https://docs.scipy.org/doc/numpy-1.14.0/reference/generated/numpy.random.permutation.html
+# SciPy.org (2019) Quickstart Tutorial. Accessed online at: https://docs.scipy.org/doc/numpy/user/quickstart.html
 # Numpy.org (2019) Random Sampling (numpy.random). Accessed online at: https://numpy.org/doc/1.17/reference/random/index.html
 # Jupyter Documentation (2019) Installing Jupyter Notebook. Accessed online at: https://jupyter.readthedocs.io/en/latest/install.html
 # DataCamp (2019) Tutorial on Jupyter Notebook Creation. Accessed online at: https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook?utm_source=adwords_ppc&utm_campaignid=898687156&utm_adgroupid=48947256715&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=1t1&utm_creative=332602034352&utm_targetid=dsa-473406581035&utm_loc_interest_ms=&utm_loc_physical_ms=20474&gclid=EAIaIQobChMIm_T_iu_S5QIVxLHtCh115QCvEAAYASAAEgKNHfD_BwE
+# Tutorialspoint (2019) NumPy Tutorial. Accessed online at: https://www.tutorialspoint.com/numpy/index.htm. 
+# NumPy Community (2017) NumPy User Guide. Accessed online at: https://numpy.org/doc/_downloads/numpy-user-1.13.0.pdf
+# Pynative (2019) Python Random Number Generation tutorial. Accessed online at: https://pynative.com/python-random-module/
 # Brownlee, J. (2018) How to Generate Random Numbers in Python. Machine Learning Mastery. Accessed online at: https://machinelearningmastery.com/how-to-generate-random-numbers-in-python/
 # Geeks for Geeks (2019) Random sampling in numpy | random_sample() function. Accessed online at: https://www.geeksforgeeks.org/random-sampling-in-numpy-random_sample-function/amp/
