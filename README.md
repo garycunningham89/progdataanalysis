@@ -11,7 +11,7 @@
 # To complete assignment the following base plan was created.
 # a) Learn how to create a jupyter notebook and detail steps.
 # b) Create the notebook and add to git repository.
-# c) Expand on previous learnings of Python including the newer lecture content concerning on NumPy and the numpy.random package.
+# c) Expand on previous learnings of Python including the newer lecture content concerning NumPy and the numpy.random package.
 # d) Use new learnings and the Jupyter notebook to complete the four tasks above.
 # e) Complete Assignment to a suitable standard as per requirements outlined in the assignment sheet within the repository. 
 
@@ -28,6 +28,16 @@
 # 4. Open Command Line. (Cmder in this instance).
 # 5. To run the notebook on the command prompt type: >>>> jupyter notebook
 
+# (b) Create the notebook and add to git repository.
+
+# GitHub account previously created on GitHub.com for creation of repositories of code, assignment and lecture content input. GitHub is the worlds leading software development and sharing platform which brings together the worlds greatest community of developers (GitHub.com, 2019).
+# With the GitHub account created the following steps were followed to add a repository for assignment which included the Jupyter Notebook as outlined;
+# a) New Repository Button on left hand side in profile view.
+# b) Give Repository name, description, choose public/private, intialize the repository with a README file, choose .gitignore as Python and license as Apache License 2.0.
+# c) The repository is created and now the Clone or Download link on right hand side was selected to copy the URL. 
+# d) Pick destination folder on desktop and use command line to paste URL while syncing Git master - > origin folder.
+# e) Once synced call >>> jupyter notebook. If it is previously installed as per steps the jupyter notebook will either open on the browser or you can copy and paste the URL which is contained within the command line.
+# f) At the end of every edit or completion save the Jupyter checkpoint and close, press CTRL + C to close the kernel of the notebook on the commanad line and use git add ., git commit -m and git push to push changes from host to git repository.
 
 
 # Reference List
