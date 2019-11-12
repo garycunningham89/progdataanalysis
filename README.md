@@ -39,6 +39,15 @@
 # e) Once synced call >>> jupyter notebook. If it is previously installed as per steps the jupyter notebook will either open on the browser or you can copy and paste the URL which is contained within the command line.
 # f) At the end of every edit or completion save the Jupyter checkpoint and close, press CTRL + C to close the kernel of the notebook on the commanad line and use git add ., git commit -m and git push to push changes from host to git repository.
 
+# (c) Expand on previous learnings of Python including the newer lecture content concerning NumPy and the numpy.random package.
+
+# NumPy is "the fundamental package supported for presenting and computing data with high performance in Python" Phuong and Czygan (2015, p. 11).
+# Features, (list adapted from Phuong and Czygan, 2015);
+# Built into Python.
+# Multidimensional arrays (ndarrays).
+# Other objects such as masked arrays, vectorization matrices, and broadcasting functions.
+# Computational operations on arrays of data including mathematical manipulation, statistics, sorting, selecting, random number generation, Fourier transforms, etc.
+# Integration with C/C++ and Fortran Code.
 
 # Reference List
 # Class Content, Background Reading and Python Learning Tutorials were preliminary references supplemented by the following list of references;
@@ -61,3 +70,4 @@
 # Pynative (2019) Python Random Number Generation tutorial. Accessed online at: https://pynative.com/python-random-module/
 # Brownlee, J. (2018) How to Generate Random Numbers in Python. Machine Learning Mastery. Accessed online at: https://machinelearningmastery.com/how-to-generate-random-numbers-in-python/
 # Geeks for Geeks (2019) Random sampling in numpy | random_sample() function. Accessed online at: https://www.geeksforgeeks.org/random-sampling-in-numpy-random_sample-function/amp/
+# Phuong, V. T. H and Cyzgan, M. (2015) Getting Started with Python Data Analysis. Accessed online at: https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781785285110/backindex
