@@ -57,18 +57,7 @@
 # iv) Pseudorandom Number Generator - abbreviated to PRNG - uses seed information to produce an algorithm which for generating a sequence of numbers which in turn approximates sequences of random numbers. 
 # v) Pseudorandomness - process for producing predictable outcomes if given information or statistical randomness without.
 # vi) Mersenne Twister - is a pseudorandom number generator (PRNG) and is widely used in software packages.
-
-# ADD TO NOTEBOOK --------------------- A.4.2 Random Numbers - p. 427.
-# There are some good random number features within NumPy, which you access in
-# np.random after importing NumPy. To find out about the functions use help(np.random)
-# once NumPy has been imported, but the more useful functions are:
-# np.random.rand(matsize) produces uniformly distributed random numbers between 0
-# and 1 in an array of size matsize
-# np.random.randn(matsize) produces zero mean, unit variance Gaussian random numbers
-# np.random.normal(mean,stdev,matsize) produces Gaussian random numbers with
-# specifed mean and standard deviation
-# np.random.uniform(low,high,matsize) produces uniform random numbers between low and high
-# np.random.randint(low,high,matsize) produces random integer values between low and high
+# vii) Gaussian distribution - also known as normal distribution is a common continuous probability distribution and is useful for determining random values as their distributions are unknown.
 
 # The following shows the list of all subset functions of NumPy's numpy.random routine quoted from SciPy.Org's reference manual webpage titled: Random sampling (numpy.random). 
 # [*each function called as x in numpy.random.()]
