@@ -78,6 +78,10 @@
 # shuffle(x) Modify a sequence in-place by shuffling its contents.
 # permutation(x) Randomly permute a sequence, or return a permuted range.
 
+
+# For certain formulaic inputs the LaTeX tutorial on Math.ubc.ca was sampled and the link for such is: https://www.math.ubc.ca/~pwalls/math-python/jupyter/latex/.
+
+
 # Distributions
 # beta(a, b[, size]) Draw samples from a Beta distribution.
 # binomial(n, p[, size]) Draw samples from a binomial distribution.
@@ -142,4 +146,9 @@
 # 15. Brownlee, J. (2018) How to Generate Random Numbers in Python. Machine Learning Mastery. Accessed online at: https://machinelearningmastery.com/how-to-generate-random-numbers-in-python/
 # 16. Geeks for Geeks (2019) Random sampling in numpy | random_sample() function. Accessed online at: https://www.geeksforgeeks.org/random-sampling-in-numpy-random_sample-function/amp/
 # 17. Phuong, V. T. H and Cyzgan, M. (2015) Getting Started with Python Data Analysis. Accessed online at: https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781785285110/backindex
-# Marsland, S. (2015) Machine Learning: An Algorithmic Perspective. Taylor and Francis Group.
+# 18. Marsland, S. (2015) Machine Learning: An Algorithmic Perspective. Taylor and Francis Group.
+# 19. Statistics How To (2019) Geometric Distribution: Definition & Example. Accessed online at: https://www.statisticshowto.datasciencecentral.com/geometric-distribution/
+# 20. Jupyter Notebook (2019) The Jupyter Notebook. Accessed online at: https://jupyter-notebook.readthedocs.io/en/stable/index.html
+# 21. matplotlib (2019) Pyplot Tutorial. Accessed online at: https://matplotlib.org/3.1.1/tutorials/introductory/pyplot.html.
+# 22. WolframMathWorld (2019) Gumbel Distribution. Accessed online at: http://mathworld.wolfram.com/GumbelDistribution.html.
+# 23. Mathematical Python (2019) LaTeX. Accessed online at: https://www.math.ubc.ca/~pwalls/math-python/jupyter/latex/.
