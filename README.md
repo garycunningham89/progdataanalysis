@@ -1,6 +1,6 @@
 # Assignment for Programming for Data Analysis - November 2019
 # Lecturer - Brian McGinley
-# Submission Date - 11/11/19
+# Submission Date - 18/11/19
 # Objective - Create a jupyter notebook concerning the numpy.random package in Python and complete the tasks as outlined below.
 # As per Assignment sheet;-
 # There are four distinct tasks to be carried out in your Jupyter notebook. 
@@ -61,8 +61,16 @@
 
 # The following shows the list of all subset functions of NumPy's numpy.random routine quoted from SciPy.Org's reference manual webpage titled: Random sampling (numpy.random). 
 # [*each function called as x in numpy.random.()]
+# The depictions within the list are briefly detailed here:
+# size = shape of distribution.
+# low = minimum of distribution
+# high =  maximum of distribution
+# p = probability.
+# x, a, d, = inputs of the distribution
+# scale = scaled range of distribution
+# length, mean, mode, median, sigma, etc., as expected.
 
-# Simple random data¶
+# Simple random data
 # rand(d0, d1, ..., dn)	Random values in a given shape.
 # randn(d0, d1, ..., dn) Return a sample (or samples) from the “standard normal” distribution.
 # randint(low[, high, size, dtype]) Return random integers from low (inclusive) to high (exclusive).
@@ -77,10 +85,6 @@
 # Permutations
 # shuffle(x) Modify a sequence in-place by shuffling its contents.
 # permutation(x) Randomly permute a sequence, or return a permuted range.
-
-
-# For certain formulaic inputs the LaTeX tutorial on Math.ubc.ca was sampled and the link for such is: https://www.math.ubc.ca/~pwalls/math-python/jupyter/latex/.
-
 
 # Distributions
 # beta(a, b[, size]) Draw samples from a Beta distribution.
@@ -125,30 +129,6 @@
 # get_state() Return a tuple representing the internal state of the generator.
 # set_state(state) Set the internal state of the generator from a tuple.
 
-# Reference List
-# Class Content, Background Reading and Python Learning Tutorials were preliminary references supplemented by the following list of references;
+# For certain formulaic inputs the LaTeX tutorial on Math.ubc.ca was sampled and the link for such is: https://www.math.ubc.ca/~pwalls/math-python/jupyter/latex/.
 
-# 1. Python Software Foundation. Accessed online at: https://www.python.org/
-# 2. w3Schools.com Tutorials. Accessed online at: https://www.w3schools.com
-# 3. Python by Programiz Tutorials. Accessed online at: https://www.programiz.com/
-# 3. Pandas: Python Data Analysis Library. Accessed online at: https://pandas.pydata.org.
-# 4. NumPy. Accessed online at: http://www.numpy.org
-# 5. Stack Overflow - Various queries for comparison and improving code output. Accessed online at: https://stackoverflow.com
-# 6. SciPy.org (2019) Random Sampling (numpy.random). Accessed online at: https://docs.scipy.org/doc/numpy-1.14.0/reference/routines.random.html
-# 7. SciPy.org (2019) numpy.random.permutation. Accessed online at: https://docs.scipy.org/doc/numpy-1.14.0/reference/generated/numpy.random.permutation.html
-# 8. SciPy.org (2019) Quickstart Tutorial. Accessed online at: https://docs.scipy.org/doc/numpy/user/quickstart.html
-# 9. Numpy.org (2019) Random Sampling (numpy.random). Accessed online at: https://numpy.org/doc/1.17/reference/random/index.html
-# 10. Jupyter Documentation (2019) Installing Jupyter Notebook. Accessed online at: https://jupyter.readthedocs.io/en/latest/install.html
-# 11. DataCamp (2019) Tutorial on Jupyter Notebook Creation. Accessed online at: https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook?utm_source=adwords_ppc&utm_campaignid=898687156&utm_adgroupid=48947256715&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=1t1&utm_creative=332602034352&utm_targetid=dsa-473406581035&utm_loc_interest_ms=&utm_loc_physical_ms=20474&gclid=EAIaIQobChMIm_T_iu_S5QIVxLHtCh115QCvEAAYASAAEgKNHfD_BwE
-# 12. Tutorialspoint (2019) NumPy Tutorial. Accessed online at: https://www.tutorialspoint.com/numpy/index.htm. 
-# 13. NumPy Community (2017) NumPy User Guide. Accessed online at: https://numpy.org/doc/_downloads/numpy-user-1.13.0.pdf
-# 14. Pynative (2019) Python Random Number Generation tutorial. Accessed online at: https://pynative.com/python-random-module/
-# 15. Brownlee, J. (2018) How to Generate Random Numbers in Python. Machine Learning Mastery. Accessed online at: https://machinelearningmastery.com/how-to-generate-random-numbers-in-python/
-# 16. Geeks for Geeks (2019) Random sampling in numpy | random_sample() function. Accessed online at: https://www.geeksforgeeks.org/random-sampling-in-numpy-random_sample-function/amp/
-# 17. Phuong, V. T. H and Cyzgan, M. (2015) Getting Started with Python Data Analysis. Accessed online at: https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781785285110/backindex
-# 18. Marsland, S. (2015) Machine Learning: An Algorithmic Perspective. Taylor and Francis Group.
-# 19. Statistics How To (2019) Geometric Distribution: Definition & Example. Accessed online at: https://www.statisticshowto.datasciencecentral.com/geometric-distribution/
-# 20. Jupyter Notebook (2019) The Jupyter Notebook. Accessed online at: https://jupyter-notebook.readthedocs.io/en/stable/index.html
-# 21. matplotlib (2019) Pyplot Tutorial. Accessed online at: https://matplotlib.org/3.1.1/tutorials/introductory/pyplot.html.
-# 22. WolframMathWorld (2019) Gumbel Distribution. Accessed online at: http://mathworld.wolfram.com/GumbelDistribution.html.
-# 23. Mathematical Python (2019) LaTeX. Accessed online at: https://www.math.ubc.ca/~pwalls/math-python/jupyter/latex/.
+# Reference List within Notebook: Programming for Data Analysis Assignment.ipynb
